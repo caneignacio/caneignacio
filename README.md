@@ -1,5 +1,5 @@
 ![](files/ignacio-cane-data-logo.png)
-👋 **My name is Ignacio. I am a psychology major from Buenos Aires, Argentina. I have worked for more than 4 years as a Change Management consultant in Technology projects, developing both strong communication and analytical skills.**
+👋 **My name is Ignacio. I am a psychology major from Buenos Aires, Argentina. I have worked for more than 4 years as a Change Management consultant in IT projects, developing both strong communication and analytical skills.**
 
 🔍 **Nowadays, I work with clients who need to analyze raw data, find useful insights, and communicate them effectively to other people. My services include:**
 - Data exploration, transformation and modelling.
