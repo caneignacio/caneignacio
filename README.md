@@ -14,3 +14,5 @@
 - I am a _Microsoft Certified: Power BI Data Analyst Associate_, with strong Power BI and Excel skills. I also have a reasonable level of SQL and Python for data analytics.
 
 **Please check the projects on this page to see some of my work! If you're interested in hiring my services, don't hesitate to contact me!**
+
+![/LI-In-Bug.png](https://www.linkedin.com/in/ignaciocane/)
