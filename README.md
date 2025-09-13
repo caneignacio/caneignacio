@@ -13,7 +13,7 @@
 - I worked for more than 4 years as a senior change management consultant for IT projects, developing communication campaings, learning courses, and generating operational and executive reports on these activities.
 - I am a _Microsoft Certified: Power BI Data Analyst Associate_, with strong Power BI and Excel skills. I also have a reasonable level of SQL and Python for data analytics.
 
-**Please check the projects on this page to see some of my work! If you're interested in hiring my services, don't hesitate to contact me!**
+**Check the projects on this page to see some of my work! If you're interested in hiring my services, don't hesitate to contact me!**
 
 [![](files/linkedin-icon-final.png)](https://www.linkedin.com/in/ignaciocane/)
 [![](files/gmail-icon-final.png)](mailto:caneignacio94@gmail.com)
