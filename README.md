@@ -11,11 +11,8 @@
 - I studied Psychology at the University of Buenos Aires, obtaining my degree in 2021.
 - I am currently living in Spain, studying a Master's degree at the University of Barcelona.
 - I worked for more than 4 years as a senior change management consultant for IT projects, developing communication campaings, learning courses, and generating operational and executive reports on these activities.
-- ![](files/LinkedIn_icon.png)
 - I am a _Microsoft Certified: Power BI Data Analyst Associate_, with strong Power BI and Excel skills. I also have a reasonable level of SQL and Python for data analytics.
 
 **Please check the projects on this page to see some of my work! If you're interested in hiring my services, don't hesitate to contact me!**
 
-
-
-[![]/LI-In-Bug.png](https://www.linkedin.com/in/ignaciocane/)
+[![](files/LinkedIn_icon.png)](https://www.linkedin.com/in/ignaciocane/)
