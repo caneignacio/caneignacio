@@ -1,4 +1,4 @@
-## Hi there 👋
+![](files/ignacio-cane-data-logo.png)
 
 <!--
 **caneignacio/caneignacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
