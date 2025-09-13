@@ -15,6 +15,6 @@
 
 **Please check the projects on this page to see some of my work! If you're interested in hiring my services, don't hesitate to contact me!**
 
-![](files/LinkedIn_icon.png)
+![](files/LinkedIn_icon.png) ![](files/LinkedIn_icon.png)
 
 [![]/LI-In-Bug.png](https://www.linkedin.com/in/ignaciocane/)
