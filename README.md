@@ -2,9 +2,9 @@
 👋 **My name is Ignacio. I am a Psychology major from Buenos Aires, Argentina. I have extensive experience in Change Management for IT projects, where I developed both strong communication and analytical skills.**
 
 🔍 **Nowadays, I work with clients who need to analyze raw data, find useful insights, and communicate them effectively to other people. My services include:**
-- Data exploration, transformation and modelling.
-- Development of reports and dashboards, both executive-friendly and in-depth.
-- Design of PowerPoint presentations in business and other fields.
+- Tutoring on data analytics tools and methods.
+- Development of data analytics projects, from data modeling to reports and dashboards creation, both executive-friendly and in-depht.
+- Design of professional PowerPoint presentations for business and other fields.
 - Development of user-friendly flyers, infographics and videos for general audiences.
 
 👇 **Some quick facts about me!**
